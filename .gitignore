@@ -1,1 +1,4 @@
-bin/
+async-task-runner/bin/
+async-task-runner/obj/
+async-task-runner.Tests/bin/
+async-task-runner.Tests/obj/
