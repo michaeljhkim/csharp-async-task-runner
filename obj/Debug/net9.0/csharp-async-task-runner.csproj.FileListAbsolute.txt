@@ -1,0 +1,15 @@
+/home/mk/Documents/csharp-async-task-runner/bin/Debug/net9.0/csharp-async-task-runner
+/home/mk/Documents/csharp-async-task-runner/bin/Debug/net9.0/csharp-async-task-runner.deps.json
+/home/mk/Documents/csharp-async-task-runner/bin/Debug/net9.0/csharp-async-task-runner.runtimeconfig.json
+/home/mk/Documents/csharp-async-task-runner/bin/Debug/net9.0/csharp-async-task-runner.dll
+/home/mk/Documents/csharp-async-task-runner/bin/Debug/net9.0/csharp-async-task-runner.pdb
+/home/mk/Documents/csharp-async-task-runner/obj/Debug/net9.0/csharp-async-task-runner.GeneratedMSBuildEditorConfig.editorconfig
+/home/mk/Documents/csharp-async-task-runner/obj/Debug/net9.0/csharp-async-task-runner.AssemblyInfoInputs.cache
+/home/mk/Documents/csharp-async-task-runner/obj/Debug/net9.0/csharp-async-task-runner.AssemblyInfo.cs
+/home/mk/Documents/csharp-async-task-runner/obj/Debug/net9.0/csharp-async-task-runner.csproj.CoreCompileInputs.cache
+/home/mk/Documents/csharp-async-task-runner/obj/Debug/net9.0/csharp-async-task-runner.sourcelink.json
+/home/mk/Documents/csharp-async-task-runner/obj/Debug/net9.0/csharp-async-task-runner.dll
+/home/mk/Documents/csharp-async-task-runner/obj/Debug/net9.0/refint/csharp-async-task-runner.dll
+/home/mk/Documents/csharp-async-task-runner/obj/Debug/net9.0/csharp-async-task-runner.pdb
+/home/mk/Documents/csharp-async-task-runner/obj/Debug/net9.0/csharp-async-task-runner.genruntimeconfig.cache
+/home/mk/Documents/csharp-async-task-runner/obj/Debug/net9.0/ref/csharp-async-task-runner.dll
